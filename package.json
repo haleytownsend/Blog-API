@@ -1,0 +1,27 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "description": "Blog API challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haleytownsend/Blog-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haleytownsend/Blog-API/issues"
+  },
+  "homepage": "https://github.com/haleytownsend/Blog-API#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.5",
+    "morgan": "^1.8.2",
+    "uuid": "^3.1.0"
+  },
+  "devDependencies": {}
+}
